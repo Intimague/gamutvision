@@ -1,3 +1,7 @@
+This is my repo of Gamutvision where I may or may not be digging around in the code to learn a few things (dependent on free time). 
+If you're interested in Gamutvision, please fork http://github.com/imatest/gamutvision.
+
+
 # Gamutvision
 
 Gamutvision™ is a gamut viewer and much more. It is a powerful tool for learning color management, exploring its functions, and proofing color workflows. With Gamutvision you can
